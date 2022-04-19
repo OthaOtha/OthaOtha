@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OthaOtha
+- 👀 I’m interested in music.
+- 🌱 I’m currently learning lua with **[Exotic](https://github.com/exotic-6666)**.
+- 💞️ I’m looking to collaborate on making **[Legacy Networks](https://discord.com/invite/rYXPCemjnW)** the best.
+- 📫 How to reach me : **[Discord](https://discord.gg/)** Otha#4393
